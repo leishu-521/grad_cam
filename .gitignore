@@ -1,3 +1,4 @@
 /model/*
 /lib/core
 /lib/datasets
+!/model/
